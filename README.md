@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-ring-an-deinem-finger/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Der Ring an deinem Finger](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-ring-an-deinem-finger/) |
+| **Get License** | [Secure Licensing Rights for Der Ring an deinem Finger](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-ring-an-deinem-finger/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die ganze City schläft nicht, doch ich seh' nur dein Gesicht
+> Der Ring an deinem Finger glänzt im lila Neonlicht
+> Steig zu mir in den Drop-Top, Baby, wir sind on the run
+> Ich will nur noch deinen Vibe, wir fangen grade erst an
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
