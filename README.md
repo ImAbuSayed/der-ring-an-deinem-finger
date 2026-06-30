@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-ring-an-deinem-finger/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Der Ring an deinem Finger](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-ring-an-deinem-finger/) |
+| **Get License** | [Get a Licensing Quote for Der Ring an deinem Finger](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-ring-an-deinem-finger/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2c13df8ec24d7d4ee087fadecdd0fa1e1c0ebc4c626cdc3cc7c0c8e0e77b46dd` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
